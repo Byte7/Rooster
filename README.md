@@ -1,2 +1,2 @@
-# Rooster
-An alarm clock web app that can set multiple alarms to help wake heavy sleepers!!!
+# Rooster 🐓 
+An alarm clock web app that can help wake heavy sleepers!!! 😴 😴 
